@@ -1,0 +1,4 @@
+- 👋 Hi, I’m Onur
+- 👀 I’m interested in becoming a software engineer
+- 🌱 I’m currently learning HTML myself, python at school
+- 💞️ I’m looking to collabrate or take part in some easy projects so i can use them in my resume.
